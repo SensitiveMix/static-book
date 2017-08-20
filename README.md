@@ -1,5 +1,7 @@
 ## Gitbook Tookit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SensitiveMix/static-book.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 ```
